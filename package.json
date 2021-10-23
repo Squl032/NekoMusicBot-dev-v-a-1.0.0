@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@koenie06/discord.js-music": "^1.2.9",
     "abbrev": "^1.1.1",
     "abort-controller": "^3.0.0",
     "agent-base": "^6.0.2",
