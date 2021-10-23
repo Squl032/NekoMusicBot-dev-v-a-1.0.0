@@ -1,0 +1,25 @@
+{
+  "name": "nekomusic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squl032/NekoMusic.git"
+  },
+  "author": "Squl032松夏",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squl032/NekoMusic/issues"
+  },
+  "homepage": "https://github.com/Squl032/NekoMusic#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@koenie06/discord.js-music": "^1.2.9",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.2.0"
+  },
+  "description": ""
+}
